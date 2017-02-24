@@ -18,4 +18,4 @@ Like this PowerShell puzzle?
 
 [This repository](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle) includes all of the [SAPIEN Technologies](https://sapien.com/blog) Friday PowerShell puzzles. 
 
-To read the solutions to our Friday PowerShell Puzzles, see [Friday Puzzle Solutions](https://www.sapien.com/blog/?s=friday+puzzle). 
+To read the solutions to our Friday PowerShell Puzzles, see [Friday Puzzle Solutions](https://www.sapien.com/blog/topics/puzzle/). 
