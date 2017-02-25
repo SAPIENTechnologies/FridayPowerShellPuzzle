@@ -11,6 +11,8 @@
 		A description of the file.
 #>
 
+#Requires -Module Pester
+
 $directory = Split-Path -Parent $MyInvocation.MyCommand.Path
 $script = (Split-Path -Leaf $MyInvocation.MyCommand.Path).Replace(".Tests.", ".")
 . "$directory\$script"
