@@ -5,10 +5,12 @@
 	 Created on:   	2/21/2017 9:31 PM
 	 Created by:   	June Blender
 	 Organization: 	SAPIEN Technologies, Inc.
-	 Filename:     	
+	 Filename:     	ConvertTo-Range.Tests.ps1
 	===========================================================================
 	.DESCRIPTION
-		A description of the file.
+	The Pester tests file for ConvertTo-Range.ps1, a test-driven development exercise
+    and a SAPIEN Technolgies Friday PowerShell Puzzle:
+	    https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/tree/master/WriteMapForPowerShell
 #>
 
 #Requires -Module Pester
