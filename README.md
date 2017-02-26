@@ -9,7 +9,7 @@ So, here they are!
 - [What does Catch catch?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhatDoesCatchCatch_20170106.md)
 - [What does Return return?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhatDoesReturnReturn_20170203.md)
 - [Why doesn't Include include?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhyDoesntIncludeInclude_20170120.md)
-- [Why doesn't Verbose work?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhyDoesntVervoseWork_20170217.md)
+- [Why doesn't Verbose work?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhyDoesntVerboseWork_20170217.md)
 
 To read the solutions to our Friday PowerShell Puzzles, see [Friday Puzzle Solutions](https://www.sapien.com/blog/topics/puzzle/). 
 
