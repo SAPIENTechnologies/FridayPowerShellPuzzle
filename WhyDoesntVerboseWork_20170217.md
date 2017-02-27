@@ -8,9 +8,9 @@ You might think of this as a beginner puzzle, but after years of using PowerShel
 
 ![](https://i1.wp.com/www.sapien.com/blog/wp-content/uploads/2017/02/Screenshot-2017-02-24-09.21.55.png?ssl=1)
 
-<!---
+
 Read the solution: Friday Puzzle: [Why doesn't Verbose work?](https://www.sapien.com/blog/?p=13376) 
--->
+
 
 ----------
 Like this PowerShell puzzle?
