@@ -21,6 +21,7 @@ Resources:
 - [How to run a Pester test (J. Blender)](http://info.sapien.com/index.php/scripting/scripting-modules/how-to-run-a-pester-test)- [Invoke-Pester: Running selected tests (J. Blender)](http://info.sapien.com/index.php/scripting/scripting-modules/invoke-pester-running-selected-tests)
 - [How to pass parameters to a Pester test script (J. Blender)](http://info.sapien.com/index.php/scripting/scripting-modules/how-to-pass-parameters-to-a-pester-test-script)
 - [Testing Pester Code Coverage (J. Blender)](http://info.sapien.com/index.php/scripting/scripting-modules/testing-pester-code-coverage)
+- [Test-Driven Development by Example (K. Beck)](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - [VIDEO: Real-World Test-Driven Development with Pester](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjA9af1-qnSAhXqslQKHTooAfkQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgssAtCeMOoo&usg=AFQjCNFu2aODWIXv9vVmlQNRLIq0OJoAGg&sig2=ix_YevMSTR2oBev4nVagqA)
 
 Thanks to **Andy Cahn** at Chrysalis School for help with the math! 
