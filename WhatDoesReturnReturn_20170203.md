@@ -1,4 +1,4 @@
-#Friday Puzzle Solution: What does Return keyword return?
+# Friday Puzzle Solution: What does Return keyword return?
 
 On Friday, February 3, we [posted](https://twitter.com/juneb_get_help/status/827533204940746752) a [Friday Puzzle](https://www.facebook.com/SAPIENTech/photos/a.10151095012027283.433079.82797372282/10154284302022283/?type=3) that shows a PowerShell function and a PowerShell class method that contain the same command sequence, including a statement with the **Return** keyword.
 
