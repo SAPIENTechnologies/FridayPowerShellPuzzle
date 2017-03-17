@@ -1,4 +1,4 @@
-#Friday PowerShell Puzzle: Write a map method for PowerShell
+# Friday PowerShell Puzzle: Write a map method for PowerShell
 
 We have a really fun puzzle for this week. I've been taking a Coursera class on mapping geospatial data. One of the Java libraries that we're using has a neat [**map() method**](https://processing.org/reference/map_.html) that maps a value from one range to another. 
 
