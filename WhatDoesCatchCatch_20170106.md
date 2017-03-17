@@ -1,4 +1,4 @@
-#Friday Puzzle: What does a Catch block catch?
+# Friday Puzzle: What does a Catch block catch?
 
 On Friday, January 6, 2017, I posted the following puzzle on [Twitter](https://twitter.com/juneb_get_help/status/817413653540417538) and [Facebook](https://www.facebook.com/SAPIENTech/photos/a.10151095012027283.433079.82797372282/10154206375342283/?type=3) ([here, too!](https://www.facebook.com/groups/powershell/permalink/1309709699087205/)).
 
