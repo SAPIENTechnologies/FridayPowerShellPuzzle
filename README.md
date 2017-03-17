@@ -11,6 +11,7 @@ So, here they are!
 - [Why doesn't Include include?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhyDoesntIncludeInclude_20170120.md)
 - [Why doesn't Verbose work?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhyDoesntVerboseWork_20170217.md)
 - [Write a Map Function for PowerShell](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WriteMapForPowerShell/WriteMapForPowerShell_README.md)
+- [What's Wrong with this Pester Test?](https://github.com/SAPIENTechnologies/FridayPowerShellPuzzle/blob/master/WhatsWrongWithThisPesterTest_20170317.md)
 
 To read the solutions to our Friday PowerShell Puzzles, see [Friday Puzzle Solutions](https://www.sapien.com/blog/topics/puzzle/). 
 
