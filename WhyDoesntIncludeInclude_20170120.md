@@ -1,4 +1,4 @@
-#Friday Puzzle: Why doesn’t Include include?
+# Friday Puzzle: Why doesn’t Include include?
 
 On Friday, January 20, 2017, I posted the following puzzle on [Twitter](https://twitter.com/juneb_get_help/status/822448851579596800) and [Facebook](https://www.facebook.com/SAPIENTech/photos/a.10151095012027283.433079.82797372282/10154242716222283/?type=3) (and [here](https://www.facebook.com/groups/powershell/permalink/1321915161199992/?match=cHV6emxlLGZyaWRheQ%3D%3D)!).
 
